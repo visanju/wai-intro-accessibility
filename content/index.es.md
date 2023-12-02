@@ -25,7 +25,7 @@ github:
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Fecha:</strong> Actualizado a 11 July 2019. Primera publicación en Febrero 2005. CHANGELOG.</p>
+  <p><strong>Fecha:</strong> Actualizado a 11 de julio de 2019. Primera publicación en febrero de 2005. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Desarrollado por Grupo de Trabajo de Educación y Divulgación (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 # Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
@@ -176,7 +176,7 @@ Es más eficiente y efectivo incorporar la accesibilidad desde el principio de l
     -   [Cómo cumplir las WCAG (Referencia Rápida)](http://www.w3.org/WAI/WCAG21/quickref/)
     -   [Tutoriales de Accesibilidad Web](https://www.w3.org/WAI/tutorials/)
 -   Para la gestión de proyectos y consideraciones organizativas, acceda a [[Planificación y Gestión de la Accesibilidad Web]](/planning-and-managing/).<br>
-    Si necesita hacer correciones rápidas, acceda a [[Estrategias para Reparaciones Provisionales]](/planning/interim-repairs/).
+    Si necesita hacer correcciones rápidas, acceda a [[Estrategias para Reparaciones Provisionales]](/planning/interim-repairs/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -219,7 +219,7 @@ Cuando el equivalente textual es facilitado, la información está disponible pa
 
 ![Ratón tachado con una cruz](https://www.w3.org/WAI/intro/no-mouse.png){:.left width="67" height="45"}
 
-Algunas personas no pueden utilizar ratón, incluyendo muchas personas mayores con control de la motricidad limitado. Un sitio web accesible no depende del ratón; hace que [toda la funcionalidad esté disponible para el teclado](http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html). Entonces, las personas con discoapacidad pueden utilizar [tecnologías de apoyo](/planning/involving-users/#at) que simulan el teclado, como por ejemplo la entrada por voz.
+Algunas personas no pueden utilizar ratón, incluyendo muchas personas mayores con control de la motricidad limitado. Un sitio web accesible no depende del ratón; hace que [toda la funcionalidad esté disponible para el teclado](http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html). Entonces, las personas con discapacidad pueden utilizar [tecnologías de apoyo](/planning/involving-users/#at) que simulan el teclado, como por ejemplo la entrada por voz.
 
 ### Transcripciones para audio
 
@@ -230,7 +230,7 @@ Del mismo modo que las imágenes no están disponibles para las personas que no 
 Facilitar transcripciones es fácil y relativamente barato para los sitios web. También existen [servicios de transcripción](http://www.uiaccess.com/transcripts/transcript_services.html) que crean transcripciones textuales en formato HTML.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More Examples" class="simple aside" %}
+{% include box.html type="start" h="3" title="Más ejemplos" class="simple aside" %}
 {:/} 
 
 -   [[Consejos para empezar]](/tips/)
